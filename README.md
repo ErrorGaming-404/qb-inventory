@@ -1,6 +1,3 @@
-# qb-inventory
-LJ Inventory CSS Reworked by ! Error#5927
-
 # qb-inventory with decay system CSS Rework By ! Error#5927
 
 # Dependencies
